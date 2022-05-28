@@ -7,7 +7,7 @@
     grid-template-columns: repeat(2,1fr);
 }
 .area {
-    padding-top: 20vh;
+    padding-top: 25vh;
     text-align: center;
     width: 70%;
 }
